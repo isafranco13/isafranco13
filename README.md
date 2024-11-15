@@ -8,7 +8,8 @@
 
 I am Informatic Engineering student. Outside tech, 📖 I love to read, 👩‍🍳 cooking, 🎵 listen to music, and 🧶 crochet.
 
-<h2>Languages and Tools:</h2>
+***Languages and Tools:***
+
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
@@ -29,8 +30,6 @@ I am Informatic Engineering student. Outside tech, 📖 I love to read, 👩‍�
  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 </p>
-
-
 
 <h2 align="right">👀 My github Stats</h2>&nbsp;
 <p align= "center">
