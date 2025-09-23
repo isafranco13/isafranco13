@@ -6,7 +6,7 @@
 
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am Informatic Engineering student. Outside tech, 📖 I love to read, 👩‍🍳 cooking, 🎵 listen to music, and 🧶 crochet.
+I am Informatic Engineering. Outside tech, 📖 I love to read, 👩‍🍳 cooking, 🎵 listen to music, and 🧶 crochet.
 
 ***Languages and Tools:***
 
