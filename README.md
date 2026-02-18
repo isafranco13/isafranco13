@@ -35,8 +35,3 @@ I am Informatic Engineering. Outside tech, 📖 I love to read, 👩‍🍳 cook
 </div>
 </p>
 
-<h2 align="right">👀 My github Stats</h2>&nbsp;
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=isafranco13&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isafranco13&theme=react&layout=compact" />
-</p>
